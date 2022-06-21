@@ -1,1 +1,2 @@
-Aplicação de Inteligência Computacional e Machine Learnig em casos reais como avaliação de filmes, dataset Irís e análises de perfis de candidatos.
+### Projetos de PLN, regressão, classificação e de sistemas de recomendação.
+Ex: Avaliação de filmes, match de currículos, ganhador de jogos, invasão de computadores etc. 
